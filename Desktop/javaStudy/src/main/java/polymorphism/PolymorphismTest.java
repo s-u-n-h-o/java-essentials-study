@@ -11,7 +11,6 @@ public class PolymorphismTest {
         //computer와 tv의 money와 bonusPoint의 값이 계산되어 결과값이 나온다
         System.out.println(buyer.money); //1300
         System.out.println(buyer.bonusPoint); //150
-
     }
 }
 
