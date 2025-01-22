@@ -14,8 +14,6 @@ class Outer {
          void method (int i) {
              int val = 30;
              i = 10;
-
-
          }
      }
 }
